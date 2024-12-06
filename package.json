@@ -1,0 +1,13 @@
+{
+  "name": "B3_Demo_1",
+  "packageManager": "yarn@4.3.1",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "B3_Demo_1": "file:"
+  }
+}
